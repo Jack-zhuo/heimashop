@@ -1,6 +1,6 @@
 <template>
 	<view>
-		分类页面
+		<h1>商品详情页面</h1>
 	</view>
 </template>
 
@@ -9,11 +9,14 @@
 		data() {
 			return {
 				
-			};
+			}
+		},
+		methods: {
+			
 		}
 	}
 </script>
 
-<style lang="scss">
+<style>
 
 </style>
