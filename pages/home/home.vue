@@ -28,7 +28,7 @@
 		},
 		onLoad() {
 			this.getSwiperList(),
-				this.getNavList();
+			this.getNavList();
 		},
 		methods: {
           async getNavList(){
